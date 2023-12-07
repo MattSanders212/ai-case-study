@@ -5,7 +5,7 @@
 
 The idea of inworld came from three google employees who saw the potential in AI to revolutionize gaming
 
-* Company Name: inworld
+Company Name: inworld
 
 The company was founded in 2021 in mountain view california 
 
