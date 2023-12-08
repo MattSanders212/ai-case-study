@@ -39,6 +39,7 @@ So far Inworld is currently using a version of Chat-gpt 3 for majority of its AI
 The result is quite in depth NPC crreation system
 ![](https://imageio.forbes.com/specials-images/imageserve/64c88b2930a837865ac6f9a3/inworld-character-engine-models/0x0.png?crop=623,350,x0,y0,safe&height=350&width=623&fit=bounds)
 
+https://imageio.forbes.com/specials-images/imageserve/64c88b2930a837865ac6f9a3/inworld-character-engine-models/0x0.png?crop=623,350,x0,y0,safe&height=350&width=623&fit=bounds
 *Landscape*
 
 
@@ -80,7 +81,7 @@ Future potential avenues Inworld should take, in my opinion, could be artificial
 I  believe this could open more avenues of revenue beyond just gamers. The capability of creating a sort of human-like help bot could not only assist people at performing their job faster but also make it more enjoyable through creating a sense of camaraderie with said AI companion.  Along with this the emergence of robotics could create a unique situation that the company could jump on. Loneliness has become a very large problem in today's society that has led to major health problems which are only increasing as the years go on. A real AI companion could become as necessary for overall health as food and water. If Inworld were to be part of that it could significantly increase the company’s overall capital
 
 ![](https://assets-global.website-files.com/60e7520db569040bc82c2bf7/615739d76573860089f4265f_5c30388f121342b81701cce6_graph-lonely.png)
-
+https://assets-global.website-files.com/60e7520db569040bc82c2bf7/615739d76573860089f4265f_5c30388f121342b81701cce6_graph-lonely.png
 
 It would seem that the technology still has some ground to cover. As of now Inworld’s cornerstone AI is chat-gpt 3 an older model for sure. I personally think they need to upgrade to chat-gpt-4 and beyond if they want the best for their AI model. ALong with this breaking into the robotic area they would need to find some means of storing or transmitting this model into a robot so it could act as said companion. 
 Along with this technologies such as:
