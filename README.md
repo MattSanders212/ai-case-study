@@ -18,16 +18,13 @@ So far the company has received over $110 million dollars and has a $500 million
 
 *Business Activities*
 
-* What specific problem is the company or project trying to solve?
 While this is not a major problem in the gaming industry right now. The potential for games to take another major step in revolutionizing gaming could aide in what most game developers of RPGs are trying to create forever games 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
 The original idea for this company it to target companies which mainly produce rpg game development. This is a market that has started to explode in recent years and is showing no signs of stopping especially with big upcoming releases such as GTA 6 coming soon which seem already seems to have people hooked without even a trailer.
 
 ![Alt text](<RPG game market .png>)
 https://www.statista.com/outlook/dmo/app/games/role-playing-games/worldwide#revenue
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Majority of the advantage seems to come from their networking skills and connections which landed them over 100m in funding which has blown away their competition. Along with this, the company plans to open source its engine in an effort to encourage more collaboration in aiding their research. 
 	
 
@@ -47,10 +44,10 @@ The result is quite in depth NPC crreation system
 
 AI/Gaming
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 Over the past decade gaming and Npcs have been a very mixed bag. In an anecdotal Perspective there seems to be less overall enthusiasm over tech leaps in new games over the past decade especially when it comes to big triple A projects. Games like Skyrim and GTA 5 were games that left a solid mark on the industry which still have dedicated players to this day. Games today seem to be struggling to get over the hump when it comes to taking that next big step.
 
 > Ai has long been an intergral part of game development, with  applications ranging from enemy AI to procedural generation... The emergence of large language modelsand generative AI has unlocked new opportunities for storytelling and character engadgment within games.
+
 says Ilya Gelfenbeyn, CEO of Inworld AI
 
 **Inworlds Current Competitors**
@@ -130,3 +127,6 @@ Computer vision would be necessary for processing visual information from camera
 
     * Article on Human brain 
         <https://hms.harvard.edu/news/new-field-neuroscience-aims-map-connections-brain#:~:text=In%20the%20human%20brain%2C%20some,the%20human%20brain%20to%20fathom.>
+    * Picture of AI in action
+      	<https://imageio.forbes.com/specials-images/imageserve/64c88b2930a837865ac6f9a3/inworld-character-engine-models/0x0.png?crop=623,350,x0,y0,safe&height=350&width=623&fit=bounds>
+  	
